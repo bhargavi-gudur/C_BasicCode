@@ -17,8 +17,7 @@ This project demonstrates the usage of various fundamental data types in the C p
     ```sh
    ./datatypes
 3. **Output**
-   ```sh
-         
+   ```sh         
 enter the value of x,y,z,s,x1 :
 enter the value int  x:
 12
