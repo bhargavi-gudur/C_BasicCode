@@ -1,7 +1,7 @@
 /**
  * @file switch_case.c
  * @author Gandla Bhargavi
- * @brief
+ * @brief This program demonstrates the use of switch-case statements to perform basic arithmetic operations.
  * @version 0.1
  * @date 2024-10-23
  *
