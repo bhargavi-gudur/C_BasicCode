@@ -42,9 +42,6 @@
     "*",
     "**/*"
   ],
-  "terminal.integrated.commandsToSkipShell": [
-    "\"fileheader.customMade\": {     \"Author\": \"Gandla Bhargavi\",     \"Email\": \"\",     \"Date\": \"Do not edit\",     \"LastEditors\": \"YourName\",     \"LastEditTime\": \"Do not edit\",     \"Description\": \"\" }, \"fileheader.configObj\": {     \"autoAdd\": true, // Automatically adds headers to new files     \"createHeader\": true, // Automatically create header when file is created     \"beforeAnnotation\": \"// \", // Comment style for the header     \"afterAnnotation\": \" \", // Space after comment characters }"
-  ],
   "C_Cpp_Runner.excludeSearch": [
     "**/build",
     "**/build/**",
