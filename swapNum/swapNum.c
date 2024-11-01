@@ -1,5 +1,5 @@
 /**
- * @file swapNum.cpp
+ * @file swapNum.c
  * @author Gandla Bhargavi
  * @brief
  * -A simple C program that demonstrates two different methods
