@@ -37,15 +37,22 @@ To run the code locally:
     ```bash
     git clone https://github.com/yourusername/C_BasicCode.git
     ```
+
 2. Navigate to the directory:
+
 
     ```bash
     cd C_BasicCode
     ```
+
 3. Compile and run any program:
+
     ```bash
+
     gcc program_name.c -o program_name
+
     ./program_name
+
     ```
 
 ## Examples
