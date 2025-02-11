@@ -61,9 +61,9 @@ Here are a few examples from the repository:
 
 - **hello_world.c** - A simple program that prints "Hello, World!" to the console.
 
-- **factorial.c** - Calculates the factorial of a number using recursion.
+- ** factorial.c ** - Calculates the factorial of a number using recursion.
 
-- **pointer_basics.c** - Demonstrates pointer operations and memory management.
+- ** pointer_basics.c ** - Demonstrates pointer operations and memory management.
 
 ## Repository Structure
 
