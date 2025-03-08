@@ -25,8 +25,8 @@ Some of the key topics covered include:
 - **Functions and Recursion**
 - **Pointers and Memory Management**
 - **Arrays, Strings, and Structures**
-- **File Handling**
-- **Error Handling**
+- ** File Handling**
+- ** Error Handling**
 
 ## Installation
 
