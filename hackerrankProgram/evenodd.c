@@ -6,7 +6,9 @@
  *
  * this application is used to find the odd and even number in the given range
  * and also print the word for the number between 1 to 9.
+ * @bhargavi-gudur
  * @version 0.1
+ *
  * @date 2025-03-06
  *
  */
