@@ -1,6 +1,8 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
+
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -8,8 +10,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gandl/Downloads/git_bhargavi_gudur/C_BasicCode",
-      "program": "c:/Users/gandl/Downloads/git_bhargavi_gudur/C_BasicCode/build/Debug/outDebug",
+      "cwd": "c:/Users/gandl/Downloads/Git_bhargavi_gudur/C_BasicCode/BasicC",
+      "program": "c:/Users/gandl/Downloads/Git_bhargavi_gudur/C_BasicCode/BasicC/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
