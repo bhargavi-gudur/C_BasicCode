@@ -8,6 +8,13 @@
  */
 #include <stdio.h>
 
+/**
+ * @brief  This function calculates the power of a number using recursion.
+ * 
+ * @param base 
+ * @param exp 
+ * @return int 
+ */
 int exponent(int base, int exp)
 {
     if (exp == 0)
@@ -15,6 +22,13 @@ int exponent(int base, int exp)
     return base * exponent(base, exp - 1);
 }
 
+/**
+ * @brief  This function calculates the power of a number using iteration.
+ * 
+ * @param base 
+ * @param exp 
+ * @return int 
+ */
 int exponent_iterative(int base, int exp)
 {
     int result = 1;
@@ -24,7 +38,11 @@ int exponent_iterative(int base, int exp)
     }
     return result;
 }
-
+/**
+ * @brief  This function is the main entry point of the program.
+ * 
+ * @return int 
+ */
 int main()
 {
     int base, exp;
