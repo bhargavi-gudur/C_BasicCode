@@ -1,7 +1,7 @@
 /**
  * @file powerNum.c
  * @author Gandla Bhargavi (gandlabhargavi6@gmail.com)
- * @brief
+ * @brief  This program calculates the power of a number using recursion and iteration. 
  * @version 0.1
  * @date 2025-05-07
  *
