@@ -13,8 +13,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gandl/Downloads/Git_bhargavi_gudur/C_BasicCode/qsortAlgorithm",
-      "program": "c:/Users/gandl/Downloads/Git_bhargavi_gudur/C_BasicCode/qsortAlgorithm/build/Debug/outDebug",
+      "cwd": "c:/Users/gandl/Downloads/Git_bhargavi_gudur/C_BasicCode/recursion_concept",
+      "program": "c:/Users/gandl/Downloads/Git_bhargavi_gudur/C_BasicCode/recursion_concept/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
