@@ -3,7 +3,7 @@
  * @author Gandla bhargavi
  * @brief  This program prints the binary representation of an unsigned integer.
  * @version 0.1
- * @date 2025-06-02
+ * @date 2025-06-23
  *
  */
 #include <stdio.h>
