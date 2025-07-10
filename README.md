@@ -19,9 +19,9 @@ If you’re new to C programming, this repository will guide you through the bas
 
 Some of the key topics covered include:
 
-- **Data Types and Variables**
-- **Operators and Expressions**
-- **Control Statements** (if,if-else, switch, loops)
+- ** Data Types and Variables**
+- ** Operators and Expressions**
+- ** Control Statements** (if,if-else, switch, loops)
 - **Functions and Recursion**
 - **Pointers and Memory Management**
 - **Arrays, Strings, and Structures**
