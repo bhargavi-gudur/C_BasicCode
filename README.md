@@ -1,6 +1,8 @@
 # C_BasicCode
 
- ** C_BasicCode ** – A repository dedicated to fundamental concepts and techniques in C programming. This repository is designed for beginners and intermediate learners who want to strengthen their foundation in C.
+ ** C_BasicCode ** – 
+A repository dedicated to fundamental concepts and techniques in C programming. 
+This repository is designed for beginners and intermediate learners who want to strengthen their foundation in C.
 
 ## Overview
 
