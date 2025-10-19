@@ -76,42 +76,53 @@ This folder tracks updates to the `README.md` files throughout the repository. I
 This folder contains a simple program to perform basic addition of numbers. It also includes pointer programs and `README.md` for more details.
 
 ### 3. `array`
+
 The array printing function program. It includes examples of how to declare, initialize, and print arrays.
 
 ### 4. `ascii_basic_code`
+
 This program displays the ASCII values of characters. It is a basic program to understand the relationship between characters and their integer values.
 
 ### 5. `enumerator`
 Contains a program that demonstrates the use of enumerations and switch statements within a function.
 
 ### 6. `hello`
+
 The `hello` folder contains the basic "Hello, World!" program. It is the starting point for learning any programming language.
 
 ### 7. `odd_even`
+
 Programs to determine whether numbers are odd or even using call by reference.
 
 ### 8. `pointer`
+
 Includes addition programs and pointer manipulation programs. Contains `README.md` for more context.
 
 ### 9. `pos_neg`
+
 A program that uses enumeration and switch statements within a function to determine if a number is positive or negative.
 
 ### 10. `ptr_swap`
 This program demonstrates how to use pointers to swap the values of two numbers.
 
 ### 11. `structure`
+
 Programs that use structures to perform various tasks, like calculating the area of a circle.
 
 ### 12. `sumof_nums`
+
 This folder contains a program that calculates the sum of numbers in an array, demonstrating basic array manipulation and summation.
 
 ### 13. `swapNum`
+
 Programs to swap numbers. The file extension was changed from `.cpp` to `.c`.
 
 ### 14. `switch_case`
+
 Programs using switch case to determine if a number is positive or negative.
 
 ### 15. `vowelorconstant`
+
 Programs to check whether a character is a vowel or consonant.
 
 ## Contributing
