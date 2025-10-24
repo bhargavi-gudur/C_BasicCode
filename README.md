@@ -70,10 +70,13 @@ Demonstrates pointer operations and memory management.
 ## Repository Structure
 
 ### 1. `Update README.md`
+
 This folder tracks updates to the `README.md` files throughout the repository. It contains the latest changes and improvements.
 
 ### 2. `addition`
+
 This folder contains a simple program to perform basic addition of numbers. It also includes pointer programs and `README.md` for more details.
+
 
 ### 3. `array`
 
