@@ -110,6 +110,7 @@ Includes addition programs and pointer manipulation programs. Contains `README.m
 A program that uses enumeration and switch statements within a function to determine if a number is positive or negative.
 
 ### 10. `ptr_swap`
+
 This program demonstrates how to use pointers to swap the values of two numbers.
 
 ### 11. `structure`
