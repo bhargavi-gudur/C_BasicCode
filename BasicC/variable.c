@@ -15,6 +15,8 @@ void variable()
 
     printf("L1=%d\nL2=%d", L1, L2);
 }
+/**@brief inside main function calling variable *function.
+**/
 int main()
 {
     variable();
