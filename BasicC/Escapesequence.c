@@ -15,9 +15,11 @@ void escapesequence()
     printf("He said, \n\"Don't worry about it.\"");
     printf("Hello,\nWelcome to C programming!");
 }
+
+/**@brief main function calling escapesequence *Function.
+*/
 int main()
 {
-
     escapesequence();
     return 0;
 }
