@@ -91,6 +91,7 @@ The array printing function program. It includes examples of how to declare, ini
 This program displays the ASCII values of characters. It is a basic program to understand the relationship between characters and their integer values.
 
 ### 5. `enumerator`
+
 Contains a program that demonstrates the use of enumerations and switch statements within a function.
 
 ### 6. `hello`
