@@ -44,12 +44,15 @@ To run the code locally:
 2. Navigate to the directory:
 
     ```bash
+
     cd C_BasicCode
+
     ```
 
 3. Compile and run any program:
 
     ```bash
+
     gcc program_name.c -o program_name
     ./program_name
 
