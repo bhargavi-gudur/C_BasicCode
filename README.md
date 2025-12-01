@@ -37,8 +37,7 @@ To run the code locally:
 1. Clone this repository:
 
     ```bash
-    git clone
- https://github.com/yourusername/C_BasicCode.git
+    git clone      https://github.com/yourusername/C_BasicCode.git
     ```
 
 2. Navigate to the directory:
