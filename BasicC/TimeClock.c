@@ -9,14 +9,14 @@
 #include <stdio.h>
 #include <time.h>
 
-int main() {
-    /**
-     * @brief Main function
+    /** @brief Main function
      * Steps:
      *  1. Get system time.
      *  2. Convert it to readable format.
      *  3. Print current date and time.
      */
+void convert_time()
+{
 
     time_t now;
     time(&now);               // get current time
@@ -29,6 +29,12 @@ int main() {
 
     printf("Time : %02d:%02d:%02d\n\n",
            t->tm_hour, t->tm_min, t->tm_sec);
+}
 
+/**@brief  main function calling convert_time function*/
+
+int main()
+ {   
+convert_time();
     return 0;
 }
