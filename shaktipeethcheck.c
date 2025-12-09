@@ -1,7 +1,8 @@
 /**
  * @file ShaktiPeethCheck.c
  * @author Gandla Bhargavi
- * @brief Program to check if a temple name is in  * the Shakti Peetham list.
+ * @brief Program to check if a temple name is in
+ * the Shakti Peetham list.
  *
  * @date 2025-11-03
  */
