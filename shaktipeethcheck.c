@@ -14,6 +14,7 @@
 
 /**
  * @brief Converts a string to lowercase and removes extra spaces.
+
  * @param str The input string to normalize.
  */
 void normalize(char *str) {
