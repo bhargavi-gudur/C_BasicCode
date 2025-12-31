@@ -1,19 +1,19 @@
 /**
  * @file enumerator.c
  * @author Gandla Bhargavi
- * @brief the use of enums in C by enumerating various geometric shapes
+ * @brief the use of enums in C by enumerating   *  various geometric shapes
  * and displaying them using a loop and a switch statement within a function.
  * @version 0.1
  * @date 2024-10-27
- *
- * @copyright Copyright (c) 2024
- *
  */
+
 #include <stdio.h>
+
 /**
  * @brief enumeration of shapes
  *
  */
+
 enum shapes
 {
     rectangle = 1,
