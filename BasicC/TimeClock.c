@@ -1,4 +1,4 @@
-/**
+9/**
  * @file TimeClock.c
  * @author Gandla Bhargavi 
  * @brief Simple program to display the current   *date and time.
@@ -32,7 +32,7 @@ void convert_time()
 }
 
 /**
-* @brief  main function calling convert_time 
+*  @brief  main function calling convert_time 
 *  function.
 */
 
