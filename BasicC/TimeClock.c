@@ -32,7 +32,7 @@ void convert_time()
 }
 
 /**
-* @brief  main function calling convert_time *function.
+* @brief  main function calling convert_time *  function.
 */
 
 int main()
