@@ -1,7 +1,7 @@
 /**
  * @file Escapesequence.c
  * @author Gandla Bhargavi
- * @brief    This program demonstrates the use of escape sequences in C.
+ * @brief This program demonstrates the use of escape sequences in C.
  * @version 0.1
  * @date 2025-04-26
  */
