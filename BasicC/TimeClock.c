@@ -1,7 +1,7 @@
 9/**
  * @file TimeClock.c
  * @author Gandla Bhargavi 
- * @brief Simple program to display the current      *  date and time.
+ * @brief Simple program to display the current      date and time.
  * @date 2025-12-03
  */
 
