@@ -2,7 +2,6 @@
  * @file factorialNum.c
  * @author Gandla Bhargavi (gandlabhargavi6@gmail.com)
  * @brief  This program calculates the factorial of a number using recursion.
- * @version 0.1
  * @date 2025-05-07
  *
  */
