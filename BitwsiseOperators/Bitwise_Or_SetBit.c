@@ -32,7 +32,6 @@ void bitwise_or_Setbit(uint8_t *num , uint8_t bit_position)
     // Perform bitwise OR operation to set the specified bit
     *num |= (1 << bit_position);
     
-    // Print the result
     printf("Result after setting bit %d: %u\n", bit_position, *num);
 }
 
